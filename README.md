@@ -1,2 +1,2 @@
 # codsoft_task1
-WEB DEVELOPEMENT CODSOFT(landing page)
+WEB DEVELOPEMENT (landing page)
